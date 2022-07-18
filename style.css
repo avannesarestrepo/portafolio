@@ -3,6 +3,7 @@ img {
   top: 50px;
   left: 300px;
   color: #46ddb0;
-  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+  /*box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);*/
+  filter: drop-shadow(0 0 20px #a01eaf);
   font-family: "Inter";
 }
